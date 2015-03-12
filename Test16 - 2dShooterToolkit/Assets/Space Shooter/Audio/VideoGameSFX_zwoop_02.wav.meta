@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3614f555369d8c742827ca9d3f7fdd70
+labels:
+- blip
+- crash
+- powerup
+- flanger
+- laser
+- jump
+- phaser
+- soundeffect
+- retro
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 0
+  forceToMono: 1
+  useHardware: 0
+  loopable: 0
+  userData: 
